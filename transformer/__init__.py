@@ -1,9 +1,3 @@
-"""A Transformer implemented from scratch in PyTorch.
-
-Public API::
-
-    from transformer import Transformer
-"""
 
 from .decoder import Decoder
 from .decoder_block import DecoderBlock

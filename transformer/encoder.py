@@ -1,5 +1,3 @@
-"""Encoder stack: embeddings + N transformer blocks."""
-
 import torch
 import torch.nn as nn
 

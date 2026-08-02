@@ -1,5 +1,3 @@
-"""Multi-head self-attention."""
-
 import torch
 import torch.nn as nn
 

@@ -1,5 +1,3 @@
-"""A single decoder layer: masked self-attention followed by cross-attention."""
-
 import torch
 import torch.nn as nn
 

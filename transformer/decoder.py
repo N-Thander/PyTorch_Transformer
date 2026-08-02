@@ -1,5 +1,3 @@
-"""Decoder stack: embeddings + N decoder blocks + output projection."""
-
 import torch
 import torch.nn as nn
 

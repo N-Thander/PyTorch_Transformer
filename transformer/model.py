@@ -1,5 +1,3 @@
-"""The full sequence-to-sequence Transformer."""
-
 import torch
 import torch.nn as nn
 
@@ -8,7 +6,6 @@ from .encoder import Encoder
 
 
 class Transformer(nn.Module):
-    """Encoder-decoder Transformer, owning both stacks and the masking logic."""
 
     def __init__(
         self,

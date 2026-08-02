@@ -1,5 +1,3 @@
-"""The attention + feed-forward block shared by the encoder and decoder."""
-
 import torch
 import torch.nn as nn
 
